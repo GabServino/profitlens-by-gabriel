@@ -32,7 +32,13 @@ Based on the findings from the dashboard, the following recommendations were ide
 
 ---
 
-<br>
+## Dataset Used
+
+The dataset used for this project contains financial sales data such as revenue, profit, products, customer segments, discounts, and sales dates. The data was used to analyze business performance and build the interactive Power BI dashboard.
+
+[View Dataset](https://docs.google.com/spreadsheets/d/1MTogGAg0b-FXX5IGICb7BiI33lDn4D7o/edit?usp=sharing&ouid=112192994012667145760&rtpof=true&sd=true)
+
+---
 
 ## Project Overview
 
@@ -171,6 +177,14 @@ Before building the dashboard, the data was cleaned and prepared to improve accu
 - Overall profit margin was **13.21%**.
 
 - Revenue spikes were mostly observed during Q4 periods.
+
+---
+
+## Other Projects
+If you're interested in viewing my other data analytics projects, you can also check out my: 
+
+**Workforce Analytics Dashboard** 
+[View Project Here](https://github.com/GabServino/workscope-by-gabriel)
 
 ---
 
