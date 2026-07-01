@@ -1,4 +1,9 @@
-# Financial Performance Analytics Dashboard
+
+<h1 align="center">Financial Performance Analytics Dashboard</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&width=2200&height=3"/>
+</p>
 
 ## Executive Summary
 
