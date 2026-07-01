@@ -42,9 +42,9 @@ The dataset used for this project contains financial sales data such as revenue,
 
 ## Project Overview
 
-This personal data analytics project was based on a business scenario where a Sales Director requested the development of a financial report and interactive dashboard for executive review. The goal was to transform raw sales data into a centralized reporting solution that could help stakeholders monitor revenue, profit, sales trends, customer segments, product performance, and discount impact.
+This personal data analytics project was based on a business scenario where a Sales Director requested a financial dashboard to help monitor overall sales performance. The goal of the project was to turn raw sales data into a clear and interactive dashboard that could help stakeholders easily track revenue, profit, sales trends, customer segments, product performance, and discount impact.
 
-The project involved data cleaning, data modeling, dashboard development, and creating calculated metrics using Excel and Power BI. The final dashboard was designed to give stakeholders an easy-to-understand view of financial performance while highlighting important trends, profitability issues, and potential business opportunities.
+The project included cleaning and preparing the data, creating calculated metrics, and building interactive visualizations using Excel and Power BI. The final dashboard was designed to provide a simple and easy-to-understand view of financial performance while highlighting important trends, profitability issues, and business opportunities.
 
 Insights and recommendations are provided on the following key areas:
 
