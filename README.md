@@ -194,6 +194,6 @@ If you're interested in viewing my other data analytics projects, you can also c
 
 Aspiring Data Analyst
 
-- GitHub: github.com/Data-Analytics-Portfolio
+- GitHub: https://github.com/GabServino
 
-- LinkedIn: linkedin.com/in/gabriel-servino
+- LinkedIn: https://linkedin.com/in/gabriel-servino
