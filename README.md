@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This personal data analytics project focused on developing a Power BI dashboard to analyze financial sales performance across customer segments, products, countries, and discount categories. The dashboard was created to provide a clear and easy-to-understand view of key business metrics such as revenue, profit, sales trends, and profitability through interactive visualizations and KPI tracking.
+This data analytics project focused on developing a Power BI dashboard to analyze financial sales performance across customer segments, products, countries, and discount categories. The dashboard was created to provide a clear and easy-to-understand view of key business metrics such as revenue, profit, sales trends, and profitability through interactive visualizations and KPI tracking.
 
 <img width="1326" height="717" alt="Dashboard" src="https://github.com/user-attachments/assets/3e70feb4-18f4-4df0-b28f-39c97d946770" />
 
@@ -42,7 +42,7 @@ The dataset used for this project contains financial sales data such as revenue,
 
 ## Project Overview
 
-This personal data analytics project was based on a business scenario where a Sales Director requested a financial dashboard to help monitor overall sales performance. The goal of the project was to turn raw sales data into a clear and interactive dashboard that could help stakeholders easily track revenue, profit, sales trends, customer segments, product performance, and discount impact.
+This data analytics project was based on a business scenario where a Sales Director requested a financial dashboard to help monitor overall sales performance. The goal of the project was to turn raw sales data into a clear and interactive dashboard that could help stakeholders easily track revenue, profit, sales trends, customer segments, product performance, and discount impact.
 
 The project included cleaning and preparing the data, creating calculated metrics, and building interactive visualizations using Excel and Power BI. The final dashboard was designed to provide a simple and easy-to-understand view of financial performance while highlighting important trends, profitability issues, and business opportunities.
 
